@@ -63,7 +63,7 @@ Aplikasi ini dibuat sebagai tugas UAS Project Kecerdasan Buatan.
 - **Program Studi** : Teknik Industri
 - **Universitas** : Universitas Dian Nuswantoro
 - **Mata Kuliah** : Project Kecerdasan Buatan
-- **Tahun** : 2025/2026
+- **Semester** : 4
 """)
 
 # ==========================

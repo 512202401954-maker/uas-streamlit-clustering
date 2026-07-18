@@ -66,9 +66,9 @@ Aplikasi ini dibuat sebagai tugas UAS Project Kecerdasan Buatan.
 - **Semester** : 4
 """)
 
-st.markdown("---")
+    st.markdown("---")
 
-st.caption("© 2025/2026 Cipta Bagus Rahmawan | Project Kecerdasan Buatan | Universitas Dian Nuswatoro")
+    st.caption("© 2025/2026 Cipta Bagus Rahmawan | Project Kecerdasan Buatan | Universitas Dian Nuswatoro")
 
 # ==========================
 # DATASET

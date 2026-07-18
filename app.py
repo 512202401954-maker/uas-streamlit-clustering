@@ -45,10 +45,26 @@ if menu == "🏠 Home":
     st.title("📊 Analisis Clustering Cacat Produk Industri Manufaktur")
 
     st.write("""
-    Selamat datang di aplikasi analisis clustering cacat produk industri manufaktur.
+Selamat datang di aplikasi analisis clustering cacat produk industri manufaktur.
 
-    Aplikasi ini dibuat sebagai tugas UAS Project Kecerdasan Buatan.
-    """)
+Aplikasi ini menggunakan metode K-Means Clustering dan Hierarchical Clustering
+untuk mengelompokkan data cacat produk berdasarkan karakteristiknya.
+
+Aplikasi ini dibuat sebagai tugas UAS Project Kecerdasan Buatan.
+""")
+
+    st.markdown("---")
+
+    st.markdown("""
+### 👨‍🎓 Informasi Pengembang
+
+- **Nama** : Cipta Bagus Rahmawan
+- **NIM** : E1202401954
+- **Program Studi** : Teknik Industri
+- **Universitas** : Universitas Dian Nuswantoro
+- **Mata Kuliah** : Project Kecerdasan Buatan
+- **Tahun** : 2025/2026
+""")
 
 # ==========================
 # DATASET
